@@ -41,5 +41,5 @@ I am a simple woman, I value love for others, respect and common sense in everyt
 
 ### Support Me!
 
-<a href="https://www.buymeacoffee.com/janainateixeira"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+<a href="https://www.buymeacoffee.com/jmtannus"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 
