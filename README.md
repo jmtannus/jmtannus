@@ -1,11 +1,20 @@
-### Hi there! ![](https://octodex.github.com/images/femalecodertocat.png)My name is Jana Tannus!
+# Hi there! 🌻
+
+![octowomanpeq](https://github.com/Janainateixeira/janainateixeira/assets/61756665/6d54397a-8a77-4c49-a230-5b4ed21e2ab5)
+
+My name is Jana Tannus!
 ==========================================================================================
 
 FullStack Developer 
 ----------------------------------
 
 **🌵 I'm a Full Stack development student at Digital College in Fortaleza | Ceará | Brazil 🌻** 
-I am a simple woman, I value love for others, respect and common sense in everything. I find it easy to work in a team, I am creative, proactive, resilient and eager to learn. And last but not least, I love challenges!
+
+```
+I am a compassionate woman who values love and respect for others, and I apply common sense in everything I do. 
+Working in a team setting is second nature to me, as I bring a creative, proactive, and resilient approach, always looking for opportunities to grow and improve. 
+Moreover, I wholeheartedly embrace challenges, as they ignite my passion to overcome obstacles and reach new heights!
+```
 
 * 🌍  I'm based in Fortaleza | Ceará | Brazil
 * 📫  How to reach me: [jmtannus@gmail.com](mailto:jmtannus@gmail.com)
@@ -15,6 +24,8 @@ I am a simple woman, I value love for others, respect and common sense in everyt
 * 💻  My freecodecamp: freecodecamp.org/JanainaTeixeira
 * ⚡  My linkedin: https://www.linkedin.com/in/jana%C3%ADna-teixeira-58b32229/
 * 😄  Fun fact: I'm a fashion designer with a passion for solving problems. 
+
+💓
 
 
 ![](https://cdn.dribbble.com/users/364116/screenshots/1899338/yogocat_animation.gif)
