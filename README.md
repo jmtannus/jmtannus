@@ -25,20 +25,7 @@ Moreover, I wholeheartedly embrace challenges, as they ignite my passion to over
 * ⚡  My linkedin: https://www.linkedin.com/in/jana%C3%ADna-teixeira-58b32229/
 * 😄  Fun fact: I'm a fashion designer with a passion for solving problems. 
 
-💓
-
-
 ![](https://cdn.dribbble.com/users/364116/screenshots/1899338/yogocat_animation.gif)
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-| ![]() | ![]() | ![]() |
-| :-: | :-: | :-: |
-
-| ![]() | ![]() |
-| :-: | :-: |
 
 <br>
 
