@@ -22,7 +22,7 @@ Moreover, I wholeheartedly embrace challenges, as they ignite my passion to over
 * 🤝  I'll do my best to collaborate on projects for beginners like me.
 * 📁  My vercel: https://vercel.com/janainateixeira
 * 💻  My freecodecamp: freecodecamp.org/JanainaTeixeira
-* ⚡  My linkedin: https://www.linkedin.com/in/jana%C3%ADna-teixeira-58b32229/
+* ⚡  My linkedin: https://www.linkedin.com/in/janaina-teixeira-58b32229/
 * 😄  Fun fact: I'm a fashion designer with a passion for solving problems. 
 
 ![](https://cdn.dribbble.com/users/364116/screenshots/1899338/yogocat_animation.gif)
