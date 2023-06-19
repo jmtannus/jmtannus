@@ -2,16 +2,19 @@
 
 ![octowomanpeq](https://github.com/Janainateixeira/janainateixeira/assets/61756665/6d54397a-8a77-4c49-a230-5b4ed21e2ab5)
 
-**🌵 I'm a Full Stack Development Student**
+### 🌵 I'm a Full Stack Development Student
 
-**at Digital College in Fortaleza | Ceará | Brazil 🌻** 
+at **Digital College** in Fortaleza | Ceará | Brazil 🌻
+
+
 
 ## I am a mother, wife and student.
 
-As a Buddhist, I follow humanism and absolute respect for the dignity of life as a philosophy.
+As a Buddhist, I follow **humanism** and **absolute respect for the dignity of life** as my philosophy.
+
 2 more pillars guide my life:
-  1. Common sense
-  1. Sincerity (without hurting the other).
+  1. **Gumption**
+  1. **Sincerity** (without hurting the other).
 
 ## About me:
 
