@@ -17,16 +17,11 @@ I'm open to contributions and suggestions for improvements to the projects. Feel
 ![Node.js](https://img.icons8.com/color/96/000000/nodejs.png)
 ![React](https://img.icons8.com/color/96/000000/react-native.png)
 
-
-## I am a mother, wife and student.
-
-As a Buddhist, I follow **humanism** and **absolute respect for the dignity of life** as my philosophy.
+## About me:
 
 2 more pillars guide my life:
   1. **Gumption**
   1. **Sincerity** (without hurting the other).
-
-## About me:
 
 * 🌍  I'm based in Fortaleza | Ceará | Brazil
 * 📫  How to reach me: [jmtannus@gmail.com](mailto:jmtannus@gmail.com)
