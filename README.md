@@ -41,6 +41,7 @@ As a Buddhist, I follow **humanism** and **absolute respect for the dignity of l
 ⛩️ Muito Chi para todos ⛩️
 ```
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmtannus&show_icons=true&theme=tokyonight)
 
 ### Support Me!
 
