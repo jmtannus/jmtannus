@@ -19,7 +19,7 @@ I'm open to contributions and suggestions for improvements to the projects. Feel
 
 ## About me:
 
-2 more pillars guide my life:
+2 pillars guide my life:
   1. **Gumption**
   1. **Sincerity** (without hurting the other).
 
