@@ -34,7 +34,14 @@ I'm open to contributions and suggestions for improvements to the projects. Feel
 ```
 ⛩️ Muito Chi para todos ⛩️
 ```
+
+## Música para codar 🎼 🎻 🎸 🎼
+
+![The Dark side of the Contrabass](https://youtu.be/50a4vUc4TSE)
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/50a4vUc4TSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>) -->
+
 ---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmtannus&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmtannus&layout=donut)](https://github.com/jmtannus/github-readme-stats)
