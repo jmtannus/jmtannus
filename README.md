@@ -31,9 +31,6 @@ I'm open to contributions and suggestions for improvements to the projects. Feel
 * ⚡  My linkedin: https://www.linkedin.com/in/janaina-teixeira-58b32229/
 * 😄  Fun fact: I'm a fashion designer with a passion for solving problems. 
 
-```
-⛩️ Muito Chi para todos ⛩️
-```
 
 ## Música para codar 🎼 🎻 🎸 🎼
 
@@ -45,10 +42,7 @@ I'm open to contributions and suggestions for improvements to the projects. Feel
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmtannus&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmtannus&layout=donut)](https://github.com/jmtannus/github-readme-stats)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatimejmtannus=ffflabs)](https://github.com/jmtannus/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmtannus&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ### Support Me!
 
 <a href="https://www.buymeacoffee.com/jmtannus"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
