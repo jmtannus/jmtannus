@@ -19,8 +19,8 @@ I'm open to contributions and suggestions for improvements to the projects. Feel
 ## About me:
 
 2 pillars guide my life:
-  1. **Gumption**
-  1. **Sincerity** (without hurting the other).
+  1. **Bom senso**
+  1. **Sinceridade** (sem ferir o outro).
 
 * 🌍  I'm based in Fortaleza | Ceará | Brazil
 * 📫  How to reach me: [jmtannus@gmail.com](mailto:jmtannus@gmail.com)
