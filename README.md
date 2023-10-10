@@ -47,3 +47,5 @@ I'm open to contributions and suggestions for improvements to the projects. Feel
 
 <a href="https://www.buymeacoffee.com/jmtannus"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 
+*"Falar é fácil, me mostre o código.”* **(Linus Torvalds)**
+
