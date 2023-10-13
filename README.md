@@ -14,7 +14,7 @@ I'm open to contributions and suggestions for improvements to the projects. Feel
 ![HTML](https://img.icons8.com/color/96/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/96/000000/css3.png)
 ![Python](https://img.icons8.com/?id=hGdCwhSHUe6L&format=png)
-![React](https://img.icons8.com/color/96/000000/react-native.png)
+<!-- ![React](https://img.icons8.com/color/96/000000/react-native.png) -->
 
 ## About me:
 
