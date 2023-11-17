@@ -28,7 +28,7 @@ I'm open to contributions and suggestions for improvements to the projects. Feel
 * 🤝  I'll do my best to collaborate on projects for beginners like me.
 * 📁  My vercel: https://vercel.com/janainateixeira
 * 💻  My freecodecamp: freecodecamp.org/JanainaTeixeira
-* ⚡  My linkedin: https://www.linkedin.com/in/janaina-teixeira-58b32229/
+* ⚡  My linkedin: [https://www.linkedin.com/in/janaina-teixeira-58b32229/](https://www.linkedin.com/in/janaina-tannus-58b32229/)
 * 😄  Fun fact: I'm a fashion designer with a passion for solving problems. 
 
 
