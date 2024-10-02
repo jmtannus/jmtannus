@@ -1,9 +1,9 @@
 # Olá mundo! 👋
 ![octowomanpeq](https://github.com/Janainateixeira/janainateixeira/assets/61756665/6d54397a-8a77-4c49-a230-5b4ed21e2ab5)
 
-### 🌵 I'm a Full Stack Development Student
+### 🌵 I'm a Business Analist 
 
-at **Digital College** in Fortaleza | Ceará | Brazil 🌻
+at **SESA** in Fortaleza | Ceará | Brazil 🌻
 
 ## Contribution 🤝
 
