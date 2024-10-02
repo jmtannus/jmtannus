@@ -1,4 +1,8 @@
 # Olá mundo! 👋.
+"C:\Users\janaina.teixeira\Pictures\Devs\Bento.jpg"
+
+https://drive.google.com/file/d/15dyhvaKzyluXbQjvuLtyIWT6LyxyEiif/view?usp=drive_link
+
 
 ![octowomanpeq](https://github.com/Janainateixeira/janainateixeira/assets/61756665/6d54397a-8a77-4c49-a230-5b4ed21e2ab5)
 
