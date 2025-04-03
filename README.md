@@ -1,9 +1,11 @@
 # Olá mundo! 👋👋
 ![octowomanpeq](https://github.com/Janainateixeira/janainateixeira/assets/61756665/6d54397a-8a77-4c49-a230-5b4ed21e2ab5)
 
-### 🌵 I'm a Business Analist 
+### 🌵 I'm a Business Analyst
 
-at **SESA** in Fortaleza | Ceará | Brazil 🌻
+at Colmeia Soluções, working on-site at
+
+**SESA** in Fortaleza | Ceará | Brazil 🌻
 
 ## Contribution 🤝
 
