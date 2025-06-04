@@ -3,9 +3,7 @@
 
 ### 🌵 I'm a Business Analyst
 
-with Colmeia Soluções, currently based at
-
-**SESA** in Fortaleza | Ceará | Brazil 🌻
+with Colmeia Soluções, Business Analist and QA | in Fortaleza | Ceará | Brazil 🌻
 
 ## Contribution 🤝
 
