@@ -41,10 +41,10 @@ I'm open to contributions and suggestions for improvements to the projects. Feel
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmtannus&show_icons=true&theme=tokyonight)
 
-// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmtannus&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmtannus&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 #### Support Me!
 
-<a href="https://www.buymeacoffee.com/jmtannus"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+<!-- <a href="https://www.buymeacoffee.com/jmtannus"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /> -->
 
 *"Falar é fácil, me mostre o código.”* **(Linus Torvalds)**
 
